@@ -1,0 +1,32 @@
+.all{
+    background-image: url("./todolistbg.webp");
+    color: white;
+    width: 50vh;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+.heading{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.para{
+    text-align: center;
+}
+.sheading{
+    text-align: left;
+    font-weight: bold;
+}
+.button{
+    text-align: center;
+    background-color: orange;
+    color: white;
+    position: absolute;
+    
+    transform: translateX(22vh);
+}
+
+.para2{
+    text-align: center;
+    text-decoration: underline;
+}
